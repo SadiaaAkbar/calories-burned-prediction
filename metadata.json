@@ -1,0 +1,13 @@
+{
+  "best_model": "Gradient Boosting",
+  "metrics": {
+    "model": "Gradient Boosting",
+    "cv_r2_mean": 0.9395,
+    "cv_r2_std": 0.0094,
+    "test_mae": 60.5,
+    "test_rmse": 73.6,
+    "test_r2": 0.9545
+  },
+  "n_train": 778,
+  "n_test": 195
+}
