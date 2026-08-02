@@ -1,0 +1,7 @@
+model,cv_r2_mean,cv_r2_std,test_mae,test_rmse,test_r2
+Gradient Boosting,0.9395,0.0094,60.5,73.6,0.9545
+Random Forest,0.9214,0.0057,69.2,91.0,0.9303
+Lasso Regression,0.9158,0.0061,76.3,101.9,0.9126
+Linear Regression,0.916,0.0059,76.3,102.3,0.912
+Ridge Regression,0.9158,0.0059,76.4,102.3,0.9119
+SVR (RBF),0.8929,0.0183,78.6,110.7,0.8969
